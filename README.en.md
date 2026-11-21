@@ -8,10 +8,15 @@ It combines recording, event synchronization, replay review, and data analysis. 
 
 ## Download
 
-No public installer is currently available. The v0.5.2 installer was withdrawn
-while its distribution-license and corresponding-source materials are
-revalidated, and it can no longer be downloaded from
-[GitHub Releases](https://github.com/iput2024-tsuji/leagueoflegends_replay_tool/releases).
+An installer validated under the current distribution policy has not yet been
+published. [GitHub Releases](https://github.com/horikimasao/leagueoflegends_replay_tool/releases)
+still retains installers for v0.5.1 and earlier as historical assets. These older
+versions are not considered revalidated under the current distribution policy,
+and their use is not recommended. Withdrawal or removal of those historical
+assets requires a separate maintainer decision.
+
+The v0.5.2 installer was withdrawn while its distribution-license and
+corresponding-source materials are revalidated, and it can no longer be downloaded.
 Use of any locally retained v0.5.2 installer is not recommended. Any SHA-256
 recorded for v0.5.2 is only a historical identifier for the withdrawn binary;
 it does not identify a currently downloadable binary or prove a reproducible
